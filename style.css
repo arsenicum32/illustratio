@@ -1,0 +1,14 @@
+img {
+  width: 50vw;
+}
+.stop-left {
+    stop-color: #eee;  /* Indigo */
+}
+
+.stop-right {
+    stop-color: white;  /* Teal */
+}
+
+.filled {
+    fill: url(#mainGradient);
+}
